@@ -21,14 +21,16 @@ To answer these questions, I utilized several data collection techniques, includ
 Key Insights
 By analyzing the data, I was able to uncover trends such as:
 
-A significant increase in music and cultural festivals during the summer months.
-High attendance for events held in central Dublin, with larger venues having higher ticket sales.
-A clear demand for free or low-cost events, especially during the winter holidays.
+- A significant increase in music and cultural festivals during the summer months.
+- High attendance for events held in central Dublin, with larger venues having higher ticket sales.
+- A clear demand for free or low-cost events, especially during the winter holidays.
+
 Tools and Technologies Used
-Python: For data collection (web scraping), cleaning, and analysis.
-Pandas: For data manipulation and aggregation.
-Matplotlib and Seaborn: For creating visualizations of event trends and insights.
-Power BI / Tableau: For building interactive dashboards.
-GitHub: To share the code and document the process.
+- Python: For data collection (web scraping), cleaning, and analysis.
+- Pandas: For data manipulation and aggregation.
+- Matplotlib and Seaborn: For creating visualizations of event trends and insights.
+- Power BI / Tableau: For building interactive dashboards.
+- GitHub: To share the code and document the process.
+
 Conclusion
 This project highlights the potential of data-driven decision-making in the event planning industry, providing actionable insights for promoters, venues, and sponsors. By understanding trends in ticket sales, audience demographics, and seasonal demand, stakeholders can make more informed decisions that maximize both attendance and revenue.
