@@ -1,4 +1,4 @@
-# Dublinevents
+# Dublin Events
 This project explores the dynamic and evolving event market in Dublin, Ireland. 
 By analyzing a wide variety of events, including concerts, festivals, conferences, and community gatherings, this study aims to uncover key trends, audience preferences, and insights into the economics of event promotion. The project combines data collection, cleaning, exploratory data analysis, and data visualization to provide actionable insights for event organizers, promoters, and businesses involved in the events industry in Dublin.
 
